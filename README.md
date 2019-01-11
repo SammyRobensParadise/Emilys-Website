@@ -1,3 +1,5 @@
 See The Website Created by Sammy Robens-Paradise (me) for Emily Bandel, an Actress based out of Vancouver, BC.
-Link
+# Link
 https://emilybandel.github.io/webpage-application/
+# Repository Link
+https://github.com/EmilyBandel/webpage-application
